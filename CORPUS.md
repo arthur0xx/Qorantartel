@@ -26,12 +26,14 @@
 
 ## الفيدا الأربع والأفيستا والنصوص التبتية
 
+[تحميل أرشيف JSON للفيدا الأربع](texts/vedas/vedas-four-dharmicdata-original-json.zip) (36 ملفاً: عشرة أجزاء لرِغ، وعشرون لأثارفا، وملفان للياجور الأبيض، وملف ترجمة لساما، وملفا توثيق لها، وملف الرخصة). المصدر [DharmicData](https://github.com/bhavykhatri/DharmicData)، والترخيص ODbL 1.0 محفوظ داخل الأرشيف. SHA-256: `1abba64cf867a822c84416b6fece2e3f3bb137c9e95597331f70a0cf22a98712`. هذه نسخة هذه المجموعة لا جميع الروايات والفروع القديمة، وملف ساما ترجمة إنجليزية، لا النص السنسكريتي الأصلي.
+
 | المجموعة | المرجع | الحالة |
 | --- | --- | --- |
-| رِغ فيدا | [ترجمة Griffith، Sacred Texts](https://sacred-texts.com/hin/rigveda/index.htm) | رابط مرجعي؛ لا تدّعي الترجمة الإنجليزية تمثيل كل الشروح أو المخطوطات السنسكريتية |
-| ساما فيدا | [ترجمة Griffith](https://sacred-texts.com/hin/sv.htm) | رابط مرجعي |
-| ياجور فيدا | [White Yajurveda، ترجمة Griffith](https://sacred-texts.com/hin/wyv/index.htm) | رابط مرجعي لفرع «الأبيض»؛ لا يشمل كل مدارس الياجور فيدا |
-| أثارفا فيدا | [ترجمة Griffith](https://sacred-texts.com/hin/av/index.htm) | رابط مرجعي |
+| رِغ فيدا | [ترجمة Griffith، Sacred Texts](https://sacred-texts.com/hin/rigveda/index.htm) | عشرة أجزاء محفوظة في الأرشيف، والرابط ترجمة إنجليزية إضافية |
+| ساما فيدا | [ترجمة Griffith](https://sacred-texts.com/hin/sv.htm) | ترجمة إنجليزية محفوظة في الأرشيف (1,794 بيتاً بحسب المصدر) |
+| ياجور فيدا | [White Yajurveda، ترجمة Griffith](https://sacred-texts.com/hin/wyv/index.htm) | فرعا الياجور الأبيض محفوظان في الأرشيف، لكن الفصل الأول من فرع Kanva ناقص، ولا يضم الياجور الأسود |
+| أثارفا فيدا | [ترجمة Griffith](https://sacred-texts.com/hin/av/index.htm) | العشرون كتاباً محفوظة في الأرشيف؛ الرابط ترجمة إضافية |
 | الأفيستا | [Avesta.org: فهرس النصوص الأصلية والترجمات](https://www.avesta.org/)؛ [Zend-Avesta، ترجمة Darmesteter الجزء الأول](https://sacred-texts.com/zor/sbe04/index.htm) و[الثاني](https://sacred-texts.com/zor/sbe23/sbe2300.htm) | رابط مرجعي؛ الأفيستا مجموعة نصوص، لا مجلد واحد موحّد |
 | النصوص التبتية | [BDRC / BUDA](https://library.bdrc.io/)؛ [84000 Reading Room](https://84000.co/reading-room) | رابطان لمجموعتين ضخمتين، ولم يُختر نص تيبتي بعينه أو تُنسخ ترجمات 84000 الحديثة |
 
