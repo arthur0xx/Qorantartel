@@ -6,6 +6,7 @@
 
 | المطلوب | الإصدار المحفوظ | الملف بعد المزامنة | القيد |
 | --- | --- | --- | --- |
+| **التناخ كاملاً بالعبرية (التوراة، الأنبياء، الكتابات)** | [Westminster Leningrad Codex](https://tanach.us/) عبر [midvash bible-data](https://github.com/midvash/bible-data/tree/main/versions/he/wlc) | [تنزيل النص المضغوط TSV](texts/tanakh/tanakh-hebrew-wlc.tsv.gz) | 39 ملف سفر بحسب التقسيم التقني، 929 إصحاحاً، 23,318 آية؛ مرتّب في الأقسام الثلاثة، مع الحركات العبرية، وسفر دانيال ضمن الكتابات. فكّه بـ `gzip -d`؛ SHA-256 للملف المضغوط: `9c4a98fa7cb8981bc83149531111289fe4ed248bc4b7f32510f1717ad6dff25c`؛ البصمة للنص المفكوك: `8067c47de7cc7b6865b21cc5937e825aa2fb8a088fc6ca3507f8626e49083d67`، وترخيص النص العبري يسمح بالنقل. |
 | التوراة، العهد القديم، العهد الجديد، سفر دانيال | [King James Version، Project Gutenberg #10](https://www.gutenberg.org/ebooks/10) | `texts/gutenberg/pg10.txt`، و[مقتطف دانيال المستقل](texts/daniel-kjv-excerpt.txt) | ترجمة إنجليزية للكتاب المقدس؛ يشمل أسفار موسى الخمسة ودانيال والعهد الجديد، وليس نصاً عبرياً أو يونانياً أو مخطوطاً |
 | المهابهارتا 1/4 | [Ganguli #15474](https://www.gutenberg.org/ebooks/15474) | `texts/gutenberg/pg15474.txt` | ترجمة إنجليزية، المجلد الأول |
 | المهابهارتا 2/4 | [Ganguli #15475](https://www.gutenberg.org/ebooks/15475) | `texts/gutenberg/pg15475.txt` | المجلد الثاني |
