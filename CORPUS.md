@@ -6,7 +6,7 @@
 
 | المطلوب | الإصدار المحفوظ | الملف بعد المزامنة | القيد |
 | --- | --- | --- | --- |
-| التوراة، العهد القديم، العهد الجديد، سفر دانيال | [King James Version، Project Gutenberg #10](https://www.gutenberg.org/ebooks/10) | `texts/gutenberg/pg10.txt` | ترجمة إنجليزية للكتاب المقدس؛ يشمل أسفار موسى الخمسة ودانيال والعهد الجديد، وليس نصاً عبرياً أو يونانياً أو مخطوطاً |
+| التوراة، العهد القديم، العهد الجديد، سفر دانيال | [King James Version، Project Gutenberg #10](https://www.gutenberg.org/ebooks/10) | `texts/gutenberg/pg10.txt`، و[مقتطف دانيال المستقل](texts/daniel-kjv-excerpt.txt) | ترجمة إنجليزية للكتاب المقدس؛ يشمل أسفار موسى الخمسة ودانيال والعهد الجديد، وليس نصاً عبرياً أو يونانياً أو مخطوطاً |
 | المهابهارتا 1/4 | [Ganguli #15474](https://www.gutenberg.org/ebooks/15474) | `texts/gutenberg/pg15474.txt` | ترجمة إنجليزية، المجلد الأول |
 | المهابهارتا 2/4 | [Ganguli #15475](https://www.gutenberg.org/ebooks/15475) | `texts/gutenberg/pg15475.txt` | المجلد الثاني |
 | المهابهارتا 3/4 | [Ganguli #15476](https://www.gutenberg.org/ebooks/15476) | `texts/gutenberg/pg15476.txt` | المجلد الثالث |
@@ -19,6 +19,8 @@
 | إنوما إيليش | [Budge، The Babylonian Legends of the Creation #9914](https://www.gutenberg.org/ebooks/9914) | `texts/gutenberg/pg9914.txt` | عرض وترجمة تاريخية لقصة الخلق البابلية؛ فيه نص إنوما إيليش وليس صورة الألواح |
 
 التنزيلات محفوظة بترميز UTF-8 ونص Gutenberg كما هو، والبصمات في [gutenberg-manifest.json](gutenberg-manifest.json). إذا لم يظهر `texts/gutenberg/` بعد، شغّل `python3 fetch_classics.py` وتحقق من البصمات قبل الاعتماد على أي ملف.
+
+**للقراءة بالعربية:** [الكتاب المقدس بترجمة فان دايك](https://ebible.org/find/details.php?id=arb-vd) متاح في موقع eBible بوصفه ملكية عامة، مع خيارات تنزيل للكتاب كله. رابط الإصدار العربي مسجل هنا؛ الملف العربي نفسه لم يُنسخ في المستودع بعد.
 
 ## الفيدا الأربع والأفيستا والنصوص التبتية
 
