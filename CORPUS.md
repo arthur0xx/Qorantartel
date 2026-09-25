@@ -8,6 +8,7 @@
 | --- | --- | --- | --- |
 | **التناخ كاملاً بالعبرية (التوراة، الأنبياء، الكتابات)** | [Westminster Leningrad Codex](https://tanach.us/) عبر [midvash bible-data](https://github.com/midvash/bible-data/tree/main/versions/he/wlc) | [تنزيل النص المضغوط TSV](texts/tanakh/tanakh-hebrew-wlc.tsv.gz) | 39 ملف سفر بحسب التقسيم التقني، 929 إصحاحاً، 23,318 آية؛ مرتّب في الأقسام الثلاثة، مع الحركات العبرية، وسفر دانيال ضمن الكتابات. فكّه بـ `gzip -d`؛ SHA-256 للملف المضغوط: `9c4a98fa7cb8981bc83149531111289fe4ed248bc4b7f32510f1717ad6dff25c`؛ البصمة للنص المفكوك: `8067c47de7cc7b6865b21cc5937e825aa2fb8a088fc6ca3507f8626e49083d67`، وترخيص النص العبري يسمح بالنقل. |
 | التوراة، العهد القديم، العهد الجديد، سفر دانيال | [King James Version، Project Gutenberg #10](https://www.gutenberg.org/ebooks/10) | `texts/gutenberg/pg10.txt`، و[مقتطف دانيال المستقل](texts/daniel-kjv-excerpt.txt) | ترجمة إنجليزية للكتاب المقدس؛ يشمل أسفار موسى الخمسة ودانيال والعهد الجديد، وليس نصاً عبرياً أو يونانياً أو مخطوطاً |
+| **الكتاب المقدس بالعربية: العهد القديم والعهد الجديد** | [ترجمة سميث فان دايك، البيانات والنص](https://github.com/midvash/bible-data/tree/main/versions/ar/svd) | [تنزيل النص العربي المضغوط TSV](texts/bible/smith-van-dyck-arabic.tsv.gz) | إصدار عربي من 66 سفراً، 1,189 إصحاحاً، 31,104 آيات حسب ترقيم مصدره، ملك عام؛ يفك بـ `gzip -d`. SHA-256: `b97e641a22de9bf46497ceb9f6bb34157e324e3a301f8abcdfe951699db71b3b`، وليس تصويراً لمخطوطة قديمة. |
 | المهابهارتا 1/4 | [Ganguli #15474](https://www.gutenberg.org/ebooks/15474) | `texts/gutenberg/pg15474.txt` | ترجمة إنجليزية، المجلد الأول |
 | المهابهارتا 2/4 | [Ganguli #15475](https://www.gutenberg.org/ebooks/15475) | `texts/gutenberg/pg15475.txt` | المجلد الثاني |
 | المهابهارتا 3/4 | [Ganguli #15476](https://www.gutenberg.org/ebooks/15476) | `texts/gutenberg/pg15476.txt` | المجلد الثالث |
@@ -21,7 +22,7 @@
 
 التنزيلات محفوظة بترميز UTF-8 ونص Gutenberg كما هو، والبصمات في [gutenberg-manifest.json](gutenberg-manifest.json). إذا لم يظهر `texts/gutenberg/` بعد، شغّل `python3 fetch_classics.py` وتحقق من البصمات قبل الاعتماد على أي ملف.
 
-**للقراءة بالعربية:** [الكتاب المقدس بترجمة فان دايك](https://ebible.org/find/details.php?id=arb-vd) متاح في موقع eBible بوصفه ملكية عامة، مع خيارات تنزيل للكتاب كله. رابط الإصدار العربي مسجل هنا؛ الملف العربي نفسه لم يُنسخ في المستودع بعد.
+**للقراءة بالعربية:** [الكتاب المقدس بترجمة فان دايك](https://ebible.org/find/details.php?id=arb-vd) متاح في موقع eBible بوصفه ملكية عامة، مع خيارات تنزيل للكتاب كله. رابط المصدر الأصلي مضاف، والنص العربي الكامل مضغوط ومرفوع في الجدول أعلاه.
 
 ## الفيدا الأربع والأفيستا والنصوص التبتية
 
